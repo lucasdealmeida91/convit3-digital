@@ -49,8 +49,7 @@ Seja bem-vindo ao repositório do **Gestão de Convites e Eventos**, um sistema 
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
    
-2. Clone o repositório:
+2. Instale as dependências:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   npm install   
    
