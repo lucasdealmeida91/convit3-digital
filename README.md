@@ -48,3 +48,9 @@ Seja bem-vindo ao repositório do **Gestão de Convites e Eventos**, um sistema 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+   
+2. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd nome-do-repositorio
+   
