@@ -51,5 +51,32 @@ Seja bem-vindo ao repositório do **Gestão de Convites e Eventos**, um sistema 
    
 2. Instale as dependências:
    ```bash
-   npm install   
+   npm install
+   
+3. Configure o banco de dados no arquivo .env:
+   ```bash
+   DATABASE_URL="seu-url-do-banco-de-dados"
+
+   
+4. Execute as migrações do Prisma:
+   ```bash
+   npx prisma migrate dev
+   
+5. Inicie o servidor de desenvolvimento:
+   Front-end (Next.js)
+   ```bash
+   npm run dev
+  -
+   Front-end (Next.js)
+   ```bash
+   npm run start:dev
+   
+6. Acesse a aplicação:
+  
+  Front-end: http://localhost:3000
+  Back-end: http://localhost:4000
+   
+
+
+
    
